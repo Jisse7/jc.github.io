@@ -26,7 +26,7 @@ html {
   color: #333;
   text-transform: uppercase;
   letter-spacing: 0.5rem;
-  margin-bottom: 15rem;
+  margin-bottom: 2rem;
   border-bottom: 0.3rem solid #333;
   text-shadow: 0.2rem 0.2rem 0.5rem #555;
 }
@@ -147,6 +147,21 @@ html {
 /* End of Navbar */
 
 /* Section 2 */
+
+.section-2-bio {
+  background-color: #f9f9f9; /* Couleur de fond */
+  padding: 40px 0; /* Espacement intérieur */
+}
+
+/* Style pour le texte de la biographie */
+.bio-text {
+  font-size: 18px; /* Taille de la police */
+  line-height: 1.6; /* Hauteur de ligne */
+  text-align: center; /* Alignement du texte */
+  margin: 0 auto; /* Centrage horizontal */
+  max-width: 600px; /* Largeur maximale */
+}
+
 .section-2 {
   width: 100%;
   height: 100%;
